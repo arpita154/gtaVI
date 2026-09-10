@@ -11,29 +11,9 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">GTA VI Website w/ GSAP</h3>
+  <h3 align="center">GTA VI Website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth **GSAP Course** available on <a href="https://jsmastery.com/" target="_blank"><b>jsmastery.com</b></a>.
-
-<!-- If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a> -->
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -87,8 +67,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_gta_vi_landing.git
-cd jsm_gta_vi_landing
+git clone https://github.com/arpita154/gtaVI.git
+cd gtaVI
 ```
 
 **Installation**
@@ -107,21 +87,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Assets</a>
+!Hope you guys like the project💖!
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/55ee213c-02df-43a0-9857-79f9a823b50c)**.
-
-<a href="https://jsmastery.com/video-kit/55ee213c-02df-43a0-9857-79f9a823b50c" target="_blank">
-  <img src="public/readme/videokit.png" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with our GSAP Pro Course!**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.com" target="_blank">
-  <img src="public/readme/jsmpro.png" alt="Project Banner">
-</a>"# gtaVI" 
